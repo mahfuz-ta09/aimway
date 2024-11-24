@@ -458,7 +458,7 @@ h3{
 .table-container {
     width: 80%;
     margin: 20px auto;
-    overflow-x: auto; /* Enable horizontal scrolling for smaller screens */
+    overflow-x: auto;
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
@@ -496,7 +496,7 @@ tbody td, thead th {
     border: 1px solid #ddd;
 }
 
-/* Responsive Design */
+
 @media screen and (max-width: 600px) {
     table, thead, tbody, th, td, tr {
         display: block;
