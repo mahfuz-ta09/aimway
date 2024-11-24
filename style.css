@@ -513,7 +513,7 @@ tbody td, thead th {
 
     tbody td {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
         padding: 10px;
         font-size: 0.9rem;
